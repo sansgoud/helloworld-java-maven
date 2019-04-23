@@ -6,6 +6,7 @@
   <packaging>jar</packaging>
   <version>5.0.0</version>
   <name>my-maven</name>
+  #<name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
 <properties>
